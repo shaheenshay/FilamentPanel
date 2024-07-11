@@ -1,0 +1,1 @@
+<img src="{{ asset('public/images/logo-transparent.png') }}" alt="Logo" class="h-10">
